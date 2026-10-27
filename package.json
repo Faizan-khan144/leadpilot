@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "concurrently": "^9.1.2"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001819",
+    "lodash": "^4.17.21"
   }
 }
